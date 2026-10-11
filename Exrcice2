@@ -1,0 +1,7 @@
+## Exercice 2
+Fichier : `ex02.php`
+
+```php
+<?php
+echo "Bonjour, bienvenue dans mon premier programme PHP !";
+?>
